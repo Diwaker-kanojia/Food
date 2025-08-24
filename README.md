@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Food Website Mockup](path-to-logo) <!-- TODO: Add a mockup or screenshot of the website -->
-
 [![GitHub stars](https://img.shields.io/github/stars/Diwaker-kanojia/Food?style=for-the-badge)](https://github.com/Diwaker-kanojia/Food/stargazers)
 
 [![GitHub forks](https://img.shields.io/github/forks/Diwaker-kanojia/Food?style=for-the-badge)](https://github.com/Diwaker-kanojia/Food/network)
@@ -30,7 +28,7 @@ This project is a simple, static website built using HTML and CSS.  It's designe
 
 ## 🖥️ Screenshots
 
-![Screenshot 1]('image/.image.png') <!-- TODO: Add actual screenshots -->
+![Screenshot 1]('image/image.png') <!-- TODO: Add actual screenshots -->
 
 
 
