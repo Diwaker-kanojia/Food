@@ -10,7 +10,7 @@
 
 **A simple, static website showcasing food items.**
 
-[Live Demo](https://demo-link.com) <!-- TODO: Add live demo link -->
+[Live Demo]([https://demo-link.com](https://food-chi-black.vercel.app/))
 
 </div>
 
@@ -28,7 +28,7 @@ This project is a simple, static website built using HTML and CSS.  It's designe
 
 ## 🖥️ Screenshots
 
-![Screenshot 1]('image/image.png') <!-- TODO: Add actual screenshots -->
+![Screenshot 1]('image/image.png')
 
 
 
