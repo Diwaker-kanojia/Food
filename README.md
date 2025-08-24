@@ -10,7 +10,7 @@
 
 **A simple, static website showcasing food items.**
 
-[Live Demo]([https://food-chi-black.vercel.app/])
+# <a href="https://food-chi-black.vercel.app/">Live Link</a>
 
 </div>
 
