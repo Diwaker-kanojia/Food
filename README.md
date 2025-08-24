@@ -28,7 +28,7 @@ This project is a simple, static website built using HTML and CSS.  It's designe
 
 ## 🖥️ Screenshots
 
-![Screenshot 1]('image/image.png')
+<img src="image/image.png">
 
 
 
